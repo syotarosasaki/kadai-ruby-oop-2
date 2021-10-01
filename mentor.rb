@@ -12,7 +12,6 @@ end
 class RailsMentor<Mentor
  def initialize(name)
      super
-     @name=name
  end
  
  def job()
